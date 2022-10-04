@@ -7,7 +7,6 @@
 ### Accountability \* Support \* Community
 
 **Instructor:** Richard McElreath
-
 **Lectures:** Pre-recorded \<[Playlist](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)\>
 
 ### COURSE OPTIONS
@@ -74,38 +73,39 @@ Lecture playlist on Youtube: \<[Statistical Rethinking 2022](https://www.youtube
 # 
 
 ------------------------------------------------------------------------
+# Course materials
+
+We are using the 2nd edition of, \<[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)\>. This edition **is a major update** I do not reccommend the first edition (as it is missing key content).
+
+You will have to find a way to get this book. Check your library, many have subscriptions to the official electronic version. Purchasing a copy **of the second edition** is a *really good idea* if you can at all afford it. If your resources are limited such that you wouldn't be able to participate, you *might* consider asking someone in the community about a temporary pdf to use until you're able to purchase. Richard McElreath has been incredibly generous in making all of these materials free of charge. It's a simple and not particularly large of sum of money^* to say 'thank you' with.
+
+At the same time, we are an international and inter-class group, your situation may be such that purchasing a copy *is* a big deal, my encouragement to support McElreath is not directed at you. We support you and want you to be here!
 
 # Purpose
 
 This course teaches data analysis, but it focuses on scientific models first. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.
 
-# Course materials
-
-We'll use the 2nd edition of, \<[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)\>.
-
-You need to find a way to get this book, check your library, many have electronic copies. Purchasing a copy **of the second edition** is a *really good idea* if you can at all afford it. If your resources are limited such that you wouldn't be able to participate, you *might* consider asking someone in the community about a temporary pdf to use until you're able to purchase. Richard McElreath has been incredibly generous in making all of these materials free of charge. It's a simple and not particularly large of sum of money (for many people) to say 'thank you' with. At the same time, we are an international and inter-class group, your situation may be such that purchasing a copy *is* a big deal, please do not feel bad that, we understand and support you.
-
-# Coding
+## Coding
 
 This course involves a lot of scripting. Students can engage with the material using either the original R code examples or one of several conversions to other computing environments. The conversions are not always exact, but they are rather complete. Each option is listed below. I also list conversions \<[here](https://xcelab.net/rm/statistical-rethinking/)\>.
 
-## Original R Flavor
+### Original R Flavor
 
 For those who want to use the original R code examples in the print book, you need to install the `rethinking` R package. The code is all on github <https://github.com/rmcelreath/rethinking/> and there are additional details about the package there, including information about using the more-up-to-date `cmdstanr` instead of `rstan` as the underlying MCMC engine.
 
-## R + Tidyverse + ggplot2 + brms
+### R + Tidyverse + ggplot2 + brms
 
 The \<[Tidyverse/brms](https://bookdown.org/content/4857/)\> conversion is very high quality and complete through Chapter 14.
 
-## Python: PyMC3 and NumPyro and more
+### Python: PyMC3 and NumPyro and more
 
 The \<[Python/PyMC3](https://github.com/pymc-devs/resources/tree/master/Rethinking_2)\> conversion is quite complete. There are also at least two NumPyro conversions: \<[NumPyro1](https://github.com/asuagar/statrethink-course-numpyro-2019)\> \<[NumPyro2](https://fehiepsi.github.io/rethinking-numpyro/)\>. And there is this \<[TensorFlow Probability](https://github.com/ksachdeva/rethinking-tensorflow-probability)\>.
 
-## Julia and Turing
+### Julia and Turing
 
 The \<[Julia/Turing](https://github.com/StatisticalRethinkingJulia)\> conversion is not as complete, but is growing fast and presents the Rethinking examples in multiple Julia engines, including the great \<[TuringLang](https://github.com/StatisticalRethinkingJulia/TuringModels.jl)\>.
 
-## Other
+### Other
 
 The are several other conversions. See the full list at <https://xcelab.net/rm/statistical-rethinking/>.
 
