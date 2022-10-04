@@ -6,8 +6,9 @@
 
 ### Accountability \* Support \* Community
 
-**Instructor:** Richard McElreath
-**Lectures:** Pre-recorded \<[Playlist](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)\>
+**Lectures:** All recorded lectures hosted on YouTube <[Playlist](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)> **note we are departing from the original 10 week format** (see schedule below).
+
+Discussion: Online weekly zoom meetings (info below) and 24/7 rolling live or asynchronous discussion on the #statisticalrethinking channel hosted on the University of Bayes Discord server.
 
 ### COURSE OPTIONS
 
@@ -81,7 +82,9 @@ You will have to find a way to get this book. Check your library, many have subs
 
 At the same time, we are an international and inter-class group, your situation may be such that purchasing a copy *is* a big deal, my encouragement to support McElreath is not directed at you. We support you and want you to be here!
 
-# Purpose
+# Unaltered Guidance from McElreath's Original Repo
+
+## Purpose
 
 This course teaches data analysis, but it focuses on scientific models first. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.
 
