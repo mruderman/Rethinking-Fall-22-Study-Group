@@ -2,44 +2,32 @@
 
 # Statistical Rethinking
 
-## Fall 2022 Community course audit
+## Fall 2022 Community-led Course Audit
 
-### [Accountability \* Support \* Community]{.underline}
+### Accountability \* Support \* Community
 
 **Instructor:** Richard McElreath
 
 **Lectures:** Pre-recorded \<[Playlist](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)\>
 
-### [Discussion options]{.underline}
+### COURSE OPTIONS
 
 Best to do both, if you can
 
-### [1. WEEKLY ZOOM MEETINGS:]{.underline}
-
-**=\>** [**Wednesdays at 9AM PST:**] **\<=**
+### 1. WEEKLY ZOOM MEETINGS WEDNESDAYS at 9AM PST
 
 -   **Zoom Meeting ID:** 946 3248 2480
-
 -   **Password:** 124631
-
 -   **Link:** <https://ucsf.zoom.us/j/94632482480?pwd=STZDaC92ZG5wS3NaSCtzTlBMZlRJQT09>
 
-### [2. DISCORD DISCUSSION CHANNEL:]{.underline}
+### 2. DISCORD CHANNEL FOR 24/7 LIVE & ASYNCHRONOUS CHAT
 
--   **Provides live and asynchronous chat room**
-
-    -   **Ask/answer/discuss questions or clarify concepts.**
-
-    ```{=html}
-    <!-- -->
-    ```
-        -   **Open 24 hours a day 7 days a week.**
-
+-   **Ask/answer/discuss questions or clarify concepts**    
 -   **Great** **options for people whose schedules or time zones unfortunately don't match up with our Wed at 9AM.**
 
 # SCHEDULE OF TOPICS
 
-[We are extending the original 10 week course length to 30 weeks!]{.underline}
+### **We are extending the original 10 week course length to 30 weeks!**
 
 Please see this extended schedule below. Weekly problem sets are are discussed in Zoom meetings and Discord channel. We want you to come to meetings even if you couldn't finish the problem set for the week.
 
